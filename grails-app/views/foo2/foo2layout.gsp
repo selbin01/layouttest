@@ -1,0 +1,1 @@
+<div>This is foo2 layyout</div>
